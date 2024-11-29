@@ -1,2 +1,3 @@
 # projectD
-- edit by Chien on classroom 3
+- edited by Chien in classroom 3
+- add content on GitHub
